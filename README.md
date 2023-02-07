@@ -1,8 +1,9 @@
 ## Chase Carlson, C++ Engineer
 
-I'm a C++ developer whose main focus is the development of game engines.
+I'm a software engineer with a wide skillset, from C++ game engine development, web development, game development, game modding, and more disparate subfields.
 
-Currently working on RedwoodEngine.
+I am proficient in C++, Java, Lua, JavaScript (Client & Server/Node), and web design.
 
-Follow for updates!
+My current project is building the the open metaverse, [Redwood Engine](https://github.com/RedwoodEngine).
 
+Follow me for updates on my work!
