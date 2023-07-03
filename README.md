@@ -4,6 +4,6 @@ I'm a software engineer with a wide skillset, from C++ game engine development, 
 
 I am proficient in C++, Java, Lua, JavaScript (Client & Server/Node), and web design.
 
-My current project is building the the open metaverse, [Redwood Engine](https://github.com/RedwoodEngine).
+My current project is building the the open metaverse, [Wayrealm](https://github.com/Wayrealm).
 
 Follow me for updates on my work!
